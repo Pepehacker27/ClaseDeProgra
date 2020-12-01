@@ -12,3 +12,4 @@ printf("hola mundo");
 }
 
 \\aqui van funciones//
+//ya pude editar el codigo Chris att: LGsus
